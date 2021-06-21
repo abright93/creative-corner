@@ -7,7 +7,7 @@ This application was created using HTML, CSS, JavaScript, jQuery, The MET & Quot
 
 ## Installation
 Visit this application at the following link:
-- https://kimberlyseddon.github.io/creative-corner/
+- https://abright93.github.io/creative-corner/
 
 ## Usage
 
